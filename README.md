@@ -9,11 +9,4 @@ Project Lali Wildfire (2nd place winner) had stationary sensors that proposed me
 
 See application diagram in assets folder.
 
-Here are some API links for the data analysis model.
-
-https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data
-
-https://disasters.nasa.gov/fires - information about fire detection using sattelite feeds
-
-https://lance.modaps.eosdis.nasa.gov/ - 24 hour image feeds, could be used to monitor for smoke columns or fire indicators, also there are components for moisture
 
